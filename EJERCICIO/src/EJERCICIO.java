@@ -29,6 +29,9 @@ public class EJERCICIO {
         System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
         System.out.println("58385781");
 
+        System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
+        System.out.println("Direccion: 5av 3-67 Zona 6");
+        System.out.println("Telefono: 55748374");
         
     }
     
