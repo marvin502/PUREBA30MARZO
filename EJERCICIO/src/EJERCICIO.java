@@ -32,11 +32,10 @@ public class EJERCICIO {
         System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
         System.out.println("Direccion: 5av 3-67 Zona 6");
         System.out.println("Telefono: 55748374");
-        
-        System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
-        System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
-        System.out.println("Telefono: 42252923");
-        
+     
+        System.out.println("Nombre: Marvin Arnoldo Ordoñez Jimenez");
+        System.out.println("Direccion: Zona 8, Huehuetenango");
+        System.out.println("Telefono: 48548846");
     }
     
 }
